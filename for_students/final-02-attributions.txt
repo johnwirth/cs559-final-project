@@ -1,0 +1,20 @@
+List all attributions here, this include "self-attributions":
+
+Models:
+-Mario: http://3dmag.org/en/market/item/4240/
+
+Textures:
+- Propellers for Odyssey Ship: https://www.pinterest.com/pin/521221356865629924/
+- Door for Castle: https://www.doorsforbuilders.com/Wood-Door.php?Door=DB-155B_DD_CST_Mahogany-Dark&Type=Front&cs=Custom&DoorSeries=Diamond
+- Earth on Globe: https://www.solarsystemscope.com/textures/
+- Flag on Odyssey: https://www.logolynx.com/topic/mario+m
+- Brick of Castle & Fountian: https://www.pinterest.com/pin/45247171235979473/
+- Water in Fountain: https://www.istockphoto.com/photo/water-surface-in-vibrant-blue-gm118337676-10473672
+- Bark of Tree: https://unsplash.com/photos/4u629vFD3vI
+- Leaves of Tree: https://libreshot.com/green-leaves-texture/
+
+Behaviors:
+- Goomba: inspired from pokeball in wb06-09-01 solution
+- Toad Ship: I used in my wb03-06-01 solution for movement
+- Odyssey Ship: inspired by example helicopter movement
+- Flag on Odyssey Ship: inspired from pokeball in wb06-09-01 solution

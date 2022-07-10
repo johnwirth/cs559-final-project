@@ -1,0 +1,14 @@
+Three different behaviors that you made:
+1. Swaying of Goombas
+2. Rotation of Fountain Top
+3. Figure 8 of Toad Ship
+
+One behavior that is not simple:
+Not simple: Flying of Odyssey Ship
+
+Animated Articulated Figure:
+Articulated: Many moving parts on Odyssey Ship
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- Globe rotation
+- Items under ship rotating

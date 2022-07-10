@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. Odyssey Ship
+2. Castle
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. Tree
+4. Goomba
+5. Fountain
+7. Toad Ship
+8. Two objects above
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- Globe on Odyssey Ship
+- Flag on Odyssey Ship
+- Light on Odyssey Ship
+
+At least on of each type of object:
+Building/structure: Caslte
+Vehicle: Odyssey Ship & Toad Ship
+Natural Element: Tree
+
+Object loaded from a model file:
+Model: Mario
+
+An object with a shader that you wrote:
+ShaderObj: Flag on Odyssey Ship
+
+Other Objects that you would like to note:
+none of note
